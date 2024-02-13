@@ -22,8 +22,8 @@ public class PartialUpdateBooking extends BaseTest {
 
 		// Create JSON body
 		JSONObject body = new JSONObject();
-		body.put("firstname", "Chirag");
-		body.put("lastname", "Sharda");
+		body.put("firstname", "Lamine");
+		body.put("lastname", "Yamal");
 
 		JSONObject bookingdates = new JSONObject();
 		bookingdates.put("checkin", "2025-02-02");
