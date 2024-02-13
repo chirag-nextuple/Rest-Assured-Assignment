@@ -51,10 +51,10 @@ public class PartialUpdateBooking extends BaseTest {
 		softAssert.assertTrue(depositpaid, "depositpaid should be false, but it's not");
 
 		String actualCheckin = responseUpdate.jsonPath().getString("booking.bookingdates.checkin");
-		softAssert.assertEquals(actualCheckin, "2024-02-02", "checkin in response is not expected");
+		softAssert.assertEquals(actualCheckin, "2025-02-02", "checkin in response is not expected");
 
 		String actualCheckout = responseUpdate.jsonPath().getString("booking.bookingdates.checkout");
-		softAssert.assertEquals(actualCheckout, "2024-03-02", "checkout in response is not expected");
+		softAssert.assertEquals(actualCheckout, "2025-03-02", "checkout in response is not expected");
 
 		String actualAdditionalneeds = responseUpdate.jsonPath().getString("booking.additionalneeds");
 		softAssert.assertEquals(actualAdditionalneeds, "Breakfast", "additionalneeds in response is not expected");
