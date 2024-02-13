@@ -1,0 +1,10 @@
+[{"firstname":"Conrad","lastname":"O'Rafferty","totalprice":337,"depositpaid":false,"bookingdates":{"checkin":"2023-01-01" , "checkout":"2023-12-31"}, "additionalneeds":"breakfast"},
+{"firstname":"Stanfield","lastname":"Markwick","totalprice":483,"depositpaid":false,"bookingdates":{"checkin":"2023-01-01" , "checkout":"2023-12-31"},"additionalneeds":"breakfast"},
+{"firstname":"Alyssa","lastname":"Caldwall","totalprice":382,"depositpaid":false,"bookingdates":{"checkin":"2023-01-01" , "checkout":"2023-12-31"},"additionalneeds":"breakfast"},
+{"firstname":"Dionisio","lastname":"Widdop","totalprice":961,"depositpaid":true,"bookingdates":{"checkin":"2023-01-01" , "checkout":"2023-12-31"},"additionalneeds":"breakfast"},
+{"firstname":"Verne","lastname":"Lifsey","totalprice":126,"depositpaid":false,"bookingdates":{"checkin":"2023-01-01" , "checkout":"2023-12-31"},"additionalneeds":"dinner"},
+{"firstname":"Goldi","lastname":"Fielders","totalprice":809,"depositpaid":true,"bookingdates":{"checkin":"2023-01-01" , "checkout":"2023-12-31"},"additionalneeds":"lunch"},
+{"firstname":"Fae","lastname":"Seak","totalprice":292,"depositpaid":false,"bookingdates":{"checkin":"2023-01-01" , "checkout":"2023-12-31"},"additionalneeds":"dinner"},
+{"firstname":"Kesley","lastname":"Copper","totalprice":183,"depositpaid":true,"bookingdates":{"checkin":"2023-01-01" , "checkout":"2023-12-31"},"additionalneeds":"breakfast"},
+{"firstname":"Germayne","lastname":"O'Reilly","totalprice":112,"depositpaid":true,"bookingdates":{"checkin":"2023-01-01" , "checkout":"2023-12-31"},"additionalneeds":"dinner"},
+{"firstname":"Aymer","lastname":"Fearnehough","totalprice":922,"depositpaid":true,"bookingdates":{"checkin":"2023-01-01" , "checkout":"2023-12-31"},"additionalneeds":"lunch"}]	
